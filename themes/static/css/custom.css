@@ -1,0 +1,11 @@
+#index-title {
+  margin-bottom: 30px;
+}
+
+.content {
+  min-height: 400px;
+}
+
+.posts-list {
+  list-style: none;
+}
